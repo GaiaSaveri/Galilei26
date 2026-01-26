@@ -1,4 +1,4 @@
-[JupyterLab](https://jupyterlite.readthedocs.io/en/stable/_static/tree/)
+[JupyterLite](https://jupyterlite.readthedocs.io/en/stable/_static/tree/)
 
 [Slides Prima Parte](https://docs.google.com/presentation/d/1vihuMwoAjOn55crQs4WHNRkYEoaTqjGV/edit?usp=sharing&ouid=115557986923549946695&rtpof=true&sd=true)
 
